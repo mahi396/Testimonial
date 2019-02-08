@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 34.737">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.29;
+      }
+
+      .cls-2 {
+        fill: #030104;
+      }
+    </style>
+  </defs>
+  <g id="two-quotes" class="cls-1" transform="translate(40 39.737) rotate(-180)">
+    <g id="Group_124" data-name="Group 124" transform="translate(0 5)">
+      <path id="Path_78" data-name="Path 78" class="cls-2" d="M7.673,5A7.786,7.786,0,0,0,0,12.895,7.786,7.786,0,0,0,7.673,20.79c7.673,0,2.557,15.263-7.673,15.263v3.684C18.258,39.737,25.414,5,7.673,5ZM29.779,5a7.786,7.786,0,0,0-7.673,7.895,7.786,7.786,0,0,0,7.673,7.895c7.673,0,2.557,15.263-7.673,15.263v3.684C40.363,39.737,47.519,5,29.779,5Z" transform="translate(0 -5)"/>
+    </g>
+  </g>
+</svg>
